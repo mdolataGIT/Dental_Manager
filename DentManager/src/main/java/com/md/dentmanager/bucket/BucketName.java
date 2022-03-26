@@ -2,7 +2,7 @@ package com.md.dentmanager.bucket;
 
 public enum BucketName {
 
-    XRAY_IMAGE("image-upload-12212");
+    XRAY_IMAGE("SECURED");
 
     private final String bucketName;
 
